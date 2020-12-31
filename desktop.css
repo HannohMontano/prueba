@@ -1,0 +1,13 @@
+.container{
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.c2{
+    display: flex;
+    flex-wrap: wrap;
+    order: 3;
+}
+.c3, .c4{
+    width: 50%;
+}
